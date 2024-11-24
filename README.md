@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahash Rai</h1>
+<h1 align="center">🌟 Dive into my GitHub profile!</h1>
 <h3 align="center">An AI/ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahash-rai&label=Profile%20views&color=0e75b6&style=flat" alt="sahash-rai" /> </p>
