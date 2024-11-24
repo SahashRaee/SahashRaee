@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)](https://sahash-rai.io)
 <h1 align="center">🌟 Dive into my GitHub profile!</h1>
 <h3 align="center">An AI/ML Enthusiast</h3>
 
