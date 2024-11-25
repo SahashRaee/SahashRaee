@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **raikapilkhutru9863329002@gmail.com**
 
-- ⚡ Fun fact **I am sarcastic and introvert**
+- ⚡ Fun fact **🌌 I’m not shy; I’m just busy admiring the chaos of the universe from afar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
