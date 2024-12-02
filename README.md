@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Mathematics for Machine Learning and Deep Learning**
 
 <p align="left">
 <a href="https://fb.com/s　a　h　a　s　 h　ツ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s　a　h　a　s　 h　ツ" height="30" width="40" /></a>
