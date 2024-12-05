@@ -1,13 +1,15 @@
 
 <h1 align="center">🌟 Hey, This is Sahash Rai!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahash-rai&label=Profile%20views&color=0e75b6&style=flat" alt="sahash-rai" /> </p>
+I am passionate about delving into the realms of machine learning and deep learning, continually honing my expertise.The process of finding solutions and learning from them motivates me every day.
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 - 🌱 I’m currently learning **Mathematics for Machine Learning and Deep Learning**
 - 🚀 Learning, coding, and improving every day 
 - 🤖 Just a data science and ML enthusiast diving into the world of AI 
 - 📊 Exploring Deep Learning, AI, and ML Algorithms
-- 📚 Here to share my journey and learn from others 
+- 📚 Here to share my journey and learn from others
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahash-rai&label=Profile%20views&color=0e75b6&style=flat" alt="sahash-rai" /> </p>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
