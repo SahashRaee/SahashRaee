@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="800" height="650">
+
 <h1 align="center">🌟 Hey, This is Sahash Rai!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahash-rai&label=Profile%20views&color=0e75b6&style=flat" alt="sahash-rai" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
