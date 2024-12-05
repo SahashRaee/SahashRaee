@@ -7,7 +7,6 @@ I am passionate about delving into the realms of machine learning and deep learn
 - 🌱 I’m currently learning **Mathematics for Machine Learning and Deep Learning**
 - 🚀 Learning, coding, and improving every day 
 - 🤖 Just a data science and ML enthusiast diving into the world of AI 
-- 📊 Exploring Deep Learning, AI, and ML Algorithms
 - 📚 Here to share my journey and learn from others
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahash-rai&label=Profile%20views&color=0e75b6&style=flat" alt="sahash-rai" /> </p>
 
