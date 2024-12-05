@@ -15,9 +15,9 @@ I am passionate about delving into the realms of machine learning and deep learn
 ## 🌐 Socials:
 <a href="https://fb.com/s　a　h　a　s　 h　ツ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s　a　h　a　s　 h　ツ" height="30" width="40" /></a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahash-rai) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sahash-Rai&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sahash-Rai&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahash-Rai&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SahashRaee&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SahashRaee&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahashRaee&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sahash-Rai&limit=5&theme=neon&combine_all_yearly_contributions=true)
