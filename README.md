@@ -20,5 +20,5 @@ I am passionate about delving into the realms of machine learning and deep learn
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahashRaee&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sahash-Rai&limit=5&theme=neon&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SahashRaee&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
