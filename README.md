@@ -28,7 +28,7 @@ I am passionate about delving into the realms of machine learning and deep learn
 ## ![](https://github.com/SahashRaee/SahashRaee/blob/main/assets/double-quotation%20(1).png)Quote of The Day
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SahashRaee&theme=onedark)](https://github.com/SahashRaee/github-profile-trophy)
+
 
 
 
@@ -38,7 +38,8 @@ I am passionate about delving into the realms of machine learning and deep learn
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31iohwu2nxkgk4ne6hijwv47qlce" alt="Data Card for Spotify">
 </a>
 
-```Week Spent On
+## Week Spent On
+```
 Language:
 Python             6 hours 20 mins >>>>>>>>>------------------   
 Tools and Frameworks:
@@ -53,5 +54,6 @@ Pycharm            2 hours         >>>>>----------------------
 
 
 ```
+[![trophy](https://github-profile-trophy.vercel.app/?username=SahashRaee&theme=onedark)](https://github.com/SahashRaee/github-profile-trophy)
 
 
