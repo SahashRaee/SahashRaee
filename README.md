@@ -30,6 +30,7 @@ I am passionate about delving into the realms of machine learning and deep learn
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SahashRaee&theme=onedark)](https://github.com/SahashRaee/github-profile-trophy)
 
+## ![Spotify Icon](https://icons8.com/icon/6707/spotify) Wanna know what I am listening!
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iohwu2nxkgk4ne6hijwv47qlce">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31iohwu2nxkgk4ne6hijwv47qlce" alt="Data Card for Spotify">
 </a>
