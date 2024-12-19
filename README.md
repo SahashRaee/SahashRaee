@@ -28,8 +28,10 @@ I am passionate about delving into the realms of machine learning and deep learn
 ## ![](https://github.com/SahashRaee/SahashRaee/blob/main/assets/double-quotation%20(1).png)Quote of The Day
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=SahashRaee&theme=onedark)](https://github.com/SahashRaee/github-profile-trophy)
+
+
+
 
 ## ![](https://github.com/SahashRaee/SahashRaee/blob/main/assets/icons8-spotify-48.png) Wanna know what I am listening!
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iohwu2nxkgk4ne6hijwv47qlce">
