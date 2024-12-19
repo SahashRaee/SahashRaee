@@ -25,12 +25,13 @@ I am passionate about delving into the realms of machine learning and deep learn
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SahashRaee&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahashRaee&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## ![](Quote of The Day
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SahashRaee&theme=onedark)](https://github.com/SahashRaee/github-profile-trophy)
 
-## ![](https://github.com/SahashRaee/SahashRaee/blob/main/assets/icons8-spotify-50.png) Wanna know what I am listening!
+## ![](https://github.com/SahashRaee/SahashRaee/blob/main/assets/icons8-spotify-48.png) Wanna know what I am listening!
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iohwu2nxkgk4ne6hijwv47qlce">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31iohwu2nxkgk4ne6hijwv47qlce" alt="Data Card for Spotify">
 </a>
