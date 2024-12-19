@@ -25,7 +25,7 @@ I am passionate about delving into the realms of machine learning and deep learn
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SahashRaee&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahashRaee&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## ![](Quote of The Day
+## ![](https://github.com/SahashRaee/SahashRaee/blob/main/assets/double-quotation%20(1).png)Quote of The Day
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
 
 
