@@ -28,4 +28,9 @@ I am passionate about delving into the realms of machine learning and deep learn
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SahashRaee&theme=onedark)](https://github.com/SahashRaee/github-profile-trophy)
+
+![spotify](https://data-card-for-spotify.herokuapp.com/api/card?user_id=12146253656&show_border=true)
+
+
 
