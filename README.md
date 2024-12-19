@@ -38,5 +38,25 @@ I am passionate about delving into the realms of machine learning and deep learn
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31iohwu2nxkgk4ne6hijwv47qlce" alt="Data Card for Spotify">
 </a>
 
+```From: 10 July 2020 - To: 06 August 2022
+
+Total Time: 1,464 hrs 54 mins
+
+Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %
+Markdown           132 hrs 33 mins >>-----------------------   08.43 %
+TeX                103 hrs 52 mins >>-----------------------   06.61 %
+HTML               94 hrs 48 mins  >>-----------------------   06.03 %
+Nim                64 hrs 31 mins  >------------------------   04.11 %
+Other              47 hrs 58 mins  >------------------------   03.05 %
+```
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+<p align="center">
+  <img src="https://github.com/SahashRaee/SahashRaee/raw/output/github-contribution-SahashRaee-contribution.svg" alt="snake"></center>
+</p>
+  <br/><br/><br/>
+</div>
 
 
