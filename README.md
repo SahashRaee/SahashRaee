@@ -7,7 +7,7 @@ I am passionate about delving into the realms of machine learning and deep learn
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
-- 🌱 I’m currently learning **Mathematics for Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 - 🚀 Learning, coding, and improving every day 
 - 🤖 Just a data science and ML enthusiast diving into the world of AI 
 - 📚 Here to share my journey and learn from others
