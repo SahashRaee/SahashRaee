@@ -18,10 +18,12 @@ I am passionate about delving into the realms of machine learning and deep learn
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/sahash-rai-27923431b/"><img align="left" src="https://github.com/SahashRaee/SahashRaee/blob/main/assets/Linkedin.png" alt="Sahash | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/sahash_rae_e/"><img align="left" src="https://github.com/SahashRaee/SahashRaee/blob/main/assets/Instagram.png" alt="Sahash | Instagram" width="21px"/></a>
+<a href=""><img align="left" src="https://github.com/SahashRaee/SahashRaee/blob/main/assets/Notion.png" alt="Sahash | Notion" width="25px"/></a>
+
 <a href="https://www.facebook.com/profile.php?id=100073757256474"><img align="left" src="https://github.com/SahashRaee/SahashRaee/blob/main/assets/Facebook.png" alt="Sahash |Facebook" width="30px"/></a>
-<a href="https://thinamxx.github.io/blog/"><img align="left" src="https://github.com/SahashRaee/SahashRaee/blob/main/assets/Notion.png" alt="Sahash | Notion" width="25px"/></a>
+<a href="https://www.instagram.com/sahash_rae_e/"><img align="left" src="https://github.com/SahashRaee/SahashRaee/blob/main/assets/Instagram.png" alt="Sahash | Instagram" width="21px"/></a>
 </br>
+
 
 
 ## 📊 GitHub Stats:
