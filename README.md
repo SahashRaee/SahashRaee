@@ -19,10 +19,9 @@ I am passionate about delving into the realms of machine learning and deep learn
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/sahash-rai-27923431b/"><img align="left" src="https://github.com/SahashRaee/SahashRaee/blob/main/assets/Linkedin.png" alt="Sahash | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/sahash_rae_e/"><img align="left" src="https://github.com/SahashRaee/SahashRaee/blob/main/assets/Instagram.png" alt="Sahash | Instagram" width="21px"/></a>
-<a href="https://www.facebook.com/profile.php?id=100073757256474"><img align="left" src="https://github.com/SahashRaee/SahashRaee/blob/main/assets/Facebook.png" alt="Sahash |Facebook" width="21px"/></a>
-<a href="https://thinamxx.github.io/blog/"><img align="left" src="https://github.com/SahashRaee/SahashRaee/blob/main/assets/Notion.png" alt="Sahash | Notion" width="21px"/></a>
+<a href="https://www.facebook.com/profile.php?id=100073757256474"><img align="left" src="https://github.com/SahashRaee/SahashRaee/blob/main/assets/Facebook.png" alt="Sahash |Facebook" width="30px"/></a>
+<a href="https://thinamxx.github.io/blog/"><img align="left" src="https://github.com/SahashRaee/SahashRaee/blob/main/assets/Notion.png" alt="Sahash | Notion" width="25px"/></a>
 </br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100073757256474) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sahash_rae_e/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahash-rai-27923431b) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/SahashRaee) 
 
 
 ## 📊 GitHub Stats:
