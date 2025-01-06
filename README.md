@@ -62,5 +62,7 @@ Pycharm            2 hours         >>>>>----------------------
 ```
 [![trophy](https://github-profile-trophy.vercel.app/?username=SahashRaee&theme=onedark)](https://github.com/SahashRaee/github-profile-trophy)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SahashRaee&" alt="SahashRaee" /></p>
+[<img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=SahashRaee&theme=dark&hide_border=true"/>](#)
+[<img width="405px" src="https://github-readme-stats.vercel.app/api?username=SahashRaee&theme=tokyonight&show_icons=true&hide_border=true"/>](#)
 
 
