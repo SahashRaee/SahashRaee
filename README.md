@@ -65,6 +65,6 @@ Pycharm            2 hours         >>>>>----------------------
 <img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=SahashRaee&theme=dark&hide_border=true"/>
 <img width="405px" src="https://github-readme-stats.vercel.app/api?username=SahashRaee&theme=tokyonight&show_icons=true&hide_border=true"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahashraee&label=Profile%20views&color=0e75b6&style=flat" alt="sahash-rai" /> </p>
+
 
 
