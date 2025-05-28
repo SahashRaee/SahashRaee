@@ -39,7 +39,7 @@ I am passionate about delving into the realms of machine learning and deep learn
 
 
 
-## ![](https://github.com/SahashRaee/SahashRaee/blob/main/assets/icons8-spotify-48.png) Wanna know what I am listening!
+## ![](https://github.com/SahashRaee/SahashRaee/blob/main/assets/icons8-spotify-48.png)  I am listening!
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iohwu2nxkgk4ne6hijwv47qlce">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31iohwu2nxkgk4ne6hijwv47qlce" alt="Data Card for Spotify">
 </a>
