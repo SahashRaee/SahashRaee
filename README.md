@@ -26,36 +26,9 @@ I am passionate about delving into the realms of machine learning and deep learn
 
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SahashRaee&count_private=true&rank_icon=github&theme=neon)<a href="https://github.com/SahashRaee"><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SahashRaee&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahashRaee&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## ![](https://github.com/SahashRaee/SahashRaee/blob/main/assets/double-quotation%20(1).png)Quote of The Day
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
 
 
 
-
-
-
-## ![](https://github.com/SahashRaee/SahashRaee/blob/main/assets/icons8-spotify-48.png)  I am listening!
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31iohwu2nxkgk4ne6hijwv47qlce">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31iohwu2nxkgk4ne6hijwv47qlce" alt="Data Card for Spotify">
-</a>
-
-## Week Spent On
-```
-Language:
-Python             6 hours 20 mins >>>>>>>>>------------------   
-Tools and Frameworks:
-Scikit-Learn       3 hours 50 mins >>>>>----------------------
-Tensorflow         2 hours 9 mins  >>>------------------------
-Django             1 hours         >>-------------------------
-AWS                44 mins         >--------------------------
-
-IDE:
-Visual Code        8 hours 25 mins >>>>>>>>>>>>>>>>>>>>>------
 
 
 ```
